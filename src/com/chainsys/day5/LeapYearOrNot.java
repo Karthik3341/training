@@ -3,10 +3,10 @@ package com.chainsys.day5;
 public class LeapYearOrNot {
 
 	public static void main(String[] args) {
-int year=1956;
+int year=2020;
 for(int i=0;i<=0;i++)
 {
-	if(year%400==0)
+	if(year%4==0)
 	{
 		System.out.println("The given year is leap");
 	}

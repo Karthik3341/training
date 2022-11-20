@@ -1,6 +1,6 @@
 package com.chainsys.day5;
 
-public class NumbersLooping {
+public class NumbersLoop {
 
 	public static void main(String[] args) {
 		System.out.println("Numbers 1 to 10");
