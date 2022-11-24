@@ -12,14 +12,14 @@ public class Calculator {
 		int b = sc.nextInt();
 		System.out.println("Enter the operation perform:");
 		char c = sc.next().charAt(0);
-		if (c=='+') {
-			System.out.println(a+b);
-		} else if (c=='-' ) {
-			System.out.println(a-b);
-		} else if (c=='*') {
-			System.out.println(a*b);
-		} else if (c=='%') {
-			System.out.println(a%b);
+		if (c == '+') {
+			System.out.println(a + b);
+		} else if (c == '-') {
+			System.out.println(a - b);
+		} else if (c == '*') {
+			System.out.println(a * b);
+		} else if (c == '%') {
+			System.out.println(a % b);
 		} else {
 			System.out.println("Invalid input");
 		}
