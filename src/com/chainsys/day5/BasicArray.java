@@ -1,6 +1,6 @@
 package com.chainsys.day5;
 
-public class BasicArray22 {
+public class BasicArray {
 
 	public static void main(String[] args) {
 String[] name=new String[7];
